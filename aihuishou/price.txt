@@ -1,0 +1,1319 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>二手苹果 iPhone X回收|高价回收二手苹果 iPhone X|二手苹果 iPhone X报价-爱回收官网</title>
+    <meta name="keywords" content="爱回收专业回收二手苹果 iPhone X-您身边的二手苹果 iPhone X回收中心，高效上门交易-爱回收官网！"/>
+    <meta name="description" content="苹果 iPhone X回收,高价回收苹果 iPhone X,苹果 iPhone X报价"/> 
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="renderer" content="webkit" />  
+    <link href="/css/common/common_new.min.css?v=94lrnURJnmVaQWhwOfSt8xRwqoRKlr8ryAkKQ-gq1eI" rel="Stylesheet" type="text/css" />
+
+    <link href="/favicon.ico" mce_href="/favicon.ico" rel="bookmark" type="image/x-icon" />
+    <link href="/favicon.ico" mce_href="/favicon.ico" rel="icon" type="image/x-icon" />
+    <link href="/favicon.ico" mce_href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
+    
+    
+      
+    
+    
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.aihuishou.com/product/25827.html" />
+    <meta name="mobile-agent" content="format=html5; url=http://m.aihuishou.com/product/25827.html" />
+    <link href="/css/product/index.min.css?v=zhSg9nJR2RB5FBYaP_FTYyaHebNBP6-D0ZyxPVlkYqU" rel="stylesheet" />
+
+    <script type="text/javascript" src="//aeu.alicdn.com/waf/d4b586ca1f9466448b384c75014e4868.js?t=1531037814"></script><script type="text/javascript">
+    /* Google */
+    var _gaq = _gaq || [];
+    // var ga = ga || function() {};
+    //_gaq.push(['_setAccount', 'UA-24492769-1']);
+    //_gaq.push(['_trackPageview']);
+    /* DSP */
+    var _mvq = _mvq || [];
+    _mvq.push(['$setAccount', 'm-172285-0']);
+
+    /* criteo */
+    //window.criteo_q  = window.criteo_q || [];
+    
+
+    
+
+
+    //var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://"); document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F6206c0fb3ed4e6feb904c97664c91527' type='text/javascript'%3E%3C/script%3E"));
+    var _ahs = [];
+    var baseDomain = "";
+    var loading = "<div class='loading'><div class='loading_icon'></div>信息加载中，让眼睛放松一下吧！</div>";
+    var version = 1.52;
+    var aihuishouConfig = {
+        popwindowUrl: "/PopWindow",
+        apiUrl: "/Api",
+        pageClick : {}
+    };
+
+    var _paq = _paq || [];
+    /* Aihuishou Statistics */
+    _ahs.push(function(){
+        _paq.push(["setDomains", ["*.www.aihuishou.com","*.aihuishou.com"]]);
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u="//tk.aihuishou.com/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', 1]);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js?v=2'; s.parentNode.insertBefore(g,s);
+        })();
+    });
+
+    _ahs.push(function () {
+        $(document).ready(function () {
+            /* placeholder BEGIN */
+            jQuery.placeholder = function (input) {
+                var $input = $(input);
+                var placeholder = $input.attr('placeholder');
+                if (!placeholder) return true;
+                if ($input.val) {
+                    if ($input.val() == '' || $input.val() === placeholder) $input.val(placeholder).addClass('placeholder');
+                    $input.focus(function () {
+                        if ($input.val() == placeholder) $input.val('').removeClass('placeholder');
+                    }).blur(function () {
+                        if ($input.val() == '') $input.val(placeholder).addClass('placeholder');
+                    });
+                }
+                else if ($input.text) {
+                    var placeholder = $input.attr('placeholder');
+                    if (!placeholder) return true;
+                    if (!$input.text()) $input.text(placeholder).addClass('placeholder');
+                    $input.focus(function () {
+                        if ($input.text() == placeholder) $input.text('').removeClass('placeholder');
+                    });
+                    $input.blur(function () {
+                        if ($input.text() == '') $input.text(placeholder).addClass('placeholder');
+                    });
+                }
+            };
+            jQuery.fn.placeholder = function () {
+                this.each(function () {
+                    var input = this;
+                    jQuery.placeholder(input);
+                });
+                return this;
+            };
+
+            jQuery.fn.valueExcludePlaceHolder = function(){
+                var result = "";
+                this.each(function(){
+                    var $input = $(this);
+                    var placeholder = $input.attr("placeholder");
+                    if ($input.val)
+                    {                      
+                        var value = $input.val();
+                        if (placeholder != value)
+                        {
+                            result = value;
+                        }                      
+                    }
+                    else if ($input.text)
+                    {
+                        var value = $input.text();
+                        if (placeholder != value)
+                        {
+                            result = value;
+                        }                
+                    }                   
+                });
+                return result;
+            };
+
+            $('input').not("[type='password']").placeholder();
+            $('textarea').placeholder();
+            /* placeholder END */
+
+        });
+    });
+</script>
+    <script type="text/javascript">
+    function MCR(Controller, Model, Render) {
+        this.controller = new Controller();
+        this.model = new Model();
+        this.render = new Render();
+
+        this.controller.model = this.model;
+        this.controller.render = this.render;
+        this.model.controller = this.controller;
+        this.render.controller = this.controller;
+
+
+        if (typeof (this.model.init) == "function") {
+            this.model.init();
+        }
+
+        if (typeof (this.render.init) == "function") {
+            this.render.init();
+        }
+
+        if (typeof (this.controller.init) == "function") {
+            this.controller.init();
+        }
+    }
+
+    function ahsRender() {
+        this.viewCache = {};
+        _ahs.push(["/js/common/easytemplate.min.js?v=" + version]);
+
+        //同步获取view模板
+        this.getViewTemplate = function (path) {
+            if (path.id) {
+                if (this.viewCache[path.id]) {
+                    return this.viewCache[path.id];
+                }
+                else {
+                    var template = $("#pageTemplate").find("#" + path.id).val();
+                    this.viewCache[path.id] = template;
+                    return template;
+                }
+            }
+        };
+
+        //同步渲染view
+        this.view = function (viewPath, model) {
+            return easyTemplate(this.getViewTemplate(viewPath), model).toString();
+        };
+
+    }
+</script>
+</head>
+<body class="   ">
+    
+     
+  
+<div id="header" class=" noscroll fixedTop ">
+ 
+     <div class="navbar">
+        <div class="navbar-content">
+            <div id="region-selection" data-currentid="1">
+                <span>上海</span>
+            </div>
+            <ul class="nav-right">
+                <li class="ordercenter">
+                    <i></i>
+                    <a href="/pc/index.html#/account/order/list" title="订单中心" id="js-logged-link" class="head_pc no_hover" target="_blank">
+                        <span class="text"></span>
+                        <span class="triangle_right"></span>
+                    </a>
+                    <a href="/pc/index.html#/login" title="登录" id="js-unlogged-link" class="head_pc no_hover" target="_blank">
+                        登录<span class="triangle_right"></span>
+                    </a>
+
+                    <div class="logon-hover">
+                        <a href="/pc/index.html#/account/order/list">个人中心</a>
+                        <a onclick="if (confirm('确定要退出吗？') == false){ return false;}" href="/Account/Logout.html" title="退出登录" id="logout_btn" class="no_hover">
+                            退出登录
+                        </a>
+                    </div>
+
+                </li>
+                <li class="recyclecart">
+                    <div id="recycle-cart">
+                        <i class="icon-cart"></i>回收车<span class="highlight">0</span>件<i class="icon-dropdown"></i>
+                        <div class="spacer"></div>
+                        <div id="recycle-cart-pop">
+                            <div class="nogoods">回收车中还没有商品，赶紧回收吧！</div>
+                            <div class="hasgoods"></div>
+                        </div>
+                    </div>
+                </li>
+
+                <li class="highlight"><a href="/home/Intro.html" title="爱回收网,关于我们,专业手机回收,服务贴心,价格公道" class="no_hover" target="_blank">关于我们</a></li>
+ 
+                <li><a href="http://tob.aihuishou.com" class="no_hover main_project" target="_blank">企业回收</a></li>
+                <!-- <li><a href="http://www.aihuishou.com/help/Recycle.html?name=RecycleCoop" title="企业电商商家，二手机，库存机回收" class="no_hover main_project" target="_blank">回收商加盟</a></li> -->
+               
+
+
+
+                <!-- <li><a href="/help/CommonQuestion.html" target="_blank" title="帮助中心 | 常见问题" class="no_hover">帮助中心</a></li> -->
+                <li><a href="/pc/index.html#/helpcenter/commonquestion" target="_blank" title="帮助中心 | 常见问题" class="no_hover">帮助中心</a></li>
+                <li class="sitemap">
+                    网站导航
+                    <i class="icon-dropdown"></i>
+                    <div class="spacer"></div>
+                    <ul id="header_sitemap_pop">
+                        <li>
+                            <dl>
+                                <dt>主要频道</dt>
+                                <dd><a href="/" class="no_hover" title="爱回收旧机回收,专业手机回收,笔记本回收,中国专业可靠的二手手机回收平台" target="_blank">旧机回收</a></dd> 
+                                <dd><a href="/shouji?all=True" title="二手数码产品回收品牌-二手电子产品回收品牌-爱回收官网" class="no_hover" target="_blank">回收品牌</a></dd>
+                                <dd><a href="/home/Intro.html" title="爱回收网,关于我们,专业手机回收,服务贴心,价格公道" class="no_hover" target="_blank">关于我们</a></dd>
+                            </dl>
+                        </li>
+                        <li class="other-channel">
+                            <dl>
+                                <dt>其他频道</dt>
+                                <dd><a href="https://weixiu.aihuishou.com/#/" class="no_hover" target="_blank">手机快修</a></dd>
+                                <dd><a href="https://www.aihuishou.com/Enterprise/Lease" title="企业租赁" target="_blank">企业租赁<i></i></a></dd>
+                                <dd><a href="http://pai.aihuishou.com/dist/static/copy/propaganda.html?ref=Qguanwang" class="no_hover" title="爱回收旧机回收,专业手机回收,笔记本回收,中国专业可靠的二手手机回收平台" target="_blank">回收商加盟</a></dd> 
+
+                            </dl>
+                        </li>
+                        <li>
+                            <dl>
+                                <dt>相关服务</dt>
+                                <!-- <dd><a class="no_hover" title="爱回收：服务条款" href="/help/AhsServices.html" target="_blank" rel="nofollow">服务条款</a></dd> -->
+                                <dd><a class="no_hover" title="爱回收：服务条款" href="/pc/index.html#/helpcenter/ahsservices" target="_blank" rel="nofollow">服务条款</a></dd>
+                                <dd class="kefu_pop"><a href="#kefupop" class="no_hover">在线客服</a></dd>
+                            </dl>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="top-area">
+        <div class="search">
+                <a class="logo-link" href="/" title="爱回收网,手机回收,笔记本回收,减法新生活,中国专业可靠的二手数码回收平台">                   
+                    <span class="icon-logo"></span>
+                </a>
+                <a href="/activity?name=databackup" class="backup" title="爱回收网,一分钟快速备份手机数据" target="_blank">
+                    <img src="/images/common/home_entrance.png">
+                </a>
+                <!-- <a href="/" class="backup" title="东方风云榜，音乐盛典独家冠名">
+                    <img src="/images/common/fengyunbang.png">
+                </a> -->
+                <div class="searchbox">
+                    <input id="txt-keyword" type="text" placeholder="请输入机器型号" autocomplete="off" class="ac_input" />
+                    <!-- <input id="txt-keyword" type="text" placeholder="搜索型号，估价抽iPhoneX" autocomplete="off" class="ac_input" /> -->
+                    <a id="btnSearchKeyWords" href="/shouji" title="二手手机回收｜旧手机回收｜二手手机交易－爱回收">
+                    </a>
+                    <div class="header-hot-list">
+                        <!-- <li class="first"><a href="">ip6s</a></li>
+                        <li><a href="">ip6s</a></li> -->
+                    </div>
+                </div>
+        </div>
+      
+       <div class="nav-projects">
+                <div class="tab-menu">
+                    <ul class="clearfix">
+                        <li>
+                            <a href="http://www.aihuishou.com" target="_blank" class="activemenu first-tab" title="手机回收,二手手机回收,专业靠谱的数码产品回收平台"> 旧机回收 <i></i></a>
+                        </li>
+
+                        <li class="erCode">
+                            <a href="http://www.aihuishou.com" class="special" title='爱回收公众号'> 
+                                爱回收公众号
+                                <!-- <i></i> -->
+                                <span class='tip'>福利</span>
+                                <span class="jiantou"></span>
+                            </a>
+                            <div class="ahsCont">
+                                <img src="/images/common/ahs_gongzhong.png" alt="爱回收公众号" />
+                                <p>扫码关注公众号<br/><span>领新人加价礼包</span></p>
+                            </div>
+                        </li>
+                         <li class="erCode">
+                            <a href="http://www.aihuishou.com" class="special" title="小程序"> 
+                                小程序 
+                                <!-- <i></i> -->
+                                <span class='tip gujia'>一键估价</span>
+                                <span class="jiantou jiantou2"></span>
+                            </a>
+                            <div class="ahsCont">
+                                <!-- <img id="navImg" src="" alt="小程序" /> -->
+                                <img src="/images/common/xiaochengxu_ercode.jpeg" src="" alt="小程序" />
+                                <p>扫码关注小程序<br/><span>掌上回收更便捷</span></p>
+                            </div>
+                        </li>
+                        <li class="dis welfare">
+                            <a href="http://activity.aihuishou.com/charity-pc/AHSweb/index.php?utm_source=AHS&utm_medium=PC_daohang&utm_campaign=charity" title="爱回收，公益助学" target="_blank">公益助学<i></i></a>
+                        </li>
+                        <li class="dis welfare">
+                            <a href="https://weixiu.aihuishou.com" title="手机快修" target="_blank">手机快修<i></i></a>
+                        </li>
+
+                        <!-- <li class="dis">
+                            <a href="http://liangpin.aihuishou.com/?utm_source=portal&utm_medium=portal_header&utm_campaign=pc" title="口袋优品,二手良品官网,超划算的二手手机购买网" target="_blank">
+                                口袋优品<i></i>
+                            </a>
+                        </li>
+                        <li class="dis">
+                            <a href="http://xhj.aihuishou.com/?utm_source=portal&utm_medium=portal_header&utm_campaign=pc" title="爱回收，信用租机,享换机" target="_blank">信用租机<i></i></a>
+                        </li>
+                        <li class='zubenben dis'>
+                            <a href="https://www.aihuishou.com/Enterprise/Lease" title="企业租赁" target="_blank">企业租赁<i></i></a>
+                        </li>
+                        <li class="dis">
+                            <a href="http://weixiu.aihuishou.com/?utm_source=ahs&utm_medium=pc" title="爱维修,手机快修服务,爱维修官网" target="_blank">手机快修<i></i></a>
+                        </li>
+
+                        <li class="dis">
+                            <!-- <a href="/Help/enterpriserecycle.html" title="爱回收，企业回收" target="_blank">企业回收<i></i></a> -->
+                            <!-- <a href="http://www.aihuishoutob.com" title="爱回收，企业回收" target="_blank">企业回收<i></i></a>
+                        </li> -->
+
+                    </ul>
+                    
+                    <!-- <div class="icon-app ahs-track-hover" data-track-category="PC-Common-Header" data-track-action="ahs-qrcode-hover" data-track-name="ahs-qrcode-header-hover,url:/product/25827.html"> -->
+                        <!-- <i></i>爱回收APP -->
+                        <!-- <i></i>
+                        <span class="span1">扫码关注</span><br />  
+                        <span class="span2">抽盛典门票</span>
+                        <div class="app-content"> -->
+                            <!-- <div class="qr-wrap">
+                                <img src="~/images/common/qrcode-app.png" alt="爱回收app下载" /><figcaption>爱回收APP<br />回收更便捷</figcaption>
+                            </div> -->
+                            <!-- <div class="qr-wrap">
+                                <img src="~/images/common/fengyun_code.png" alt="东方风云榜" /><figcaption>扫码关注<br />抽盛典门票</figcaption>
+                            </div>
+                        </div>
+                    </div> -->
+                </div>
+       </div>
+    </div>
+</div>
+
+
+
+    <div id="body">
+        
+<div class="progressbar">
+    <div class="currentProgress">
+        <span></span>
+    </div>
+</div>
+
+<div class="breadcrumb-navs">
+    <ul class="nav">
+        <li><a href="#">首页</a></li>
+        <li><a href="/shouji">二手手机回收</a></li>
+        <li><a href="/shouji/b52">二手苹果手机回收</a></li>
+        <li class="last"><a href="/product/25827.html">二手苹果 iPhone X手机回收</a></li>
+    </ul>
+    <ol class="quote-step">
+        <li>选择属性</li>
+        <li>获得报价</li>
+        <li>提交订单</li>
+        <li>质检确认最终回收价</li>
+        <li>快速收款</li>
+    </ol>
+</div>
+
+
+<div id="group-property" class="clearfix" data-sku-property-value-ids='[["2014","2023","2072","2453","6437"],["2014","2072","2453","3987","6437"],["2015","2023","2072","2453","6437"],["2015","2072","2453","3987","6437"],["2019","2023","2072","2453","6437"],["2019","2072","2453","3987","6437"],["2023","2072","2453","2794","6437"],["2072","2453","2794","3987","6437"],["2023","2072","2453","2984","6437"],["2072","2453","2984","3987","6437"],["2014","2023","2072","2454","6437"],["2014","2072","2454","3987","6437"],["2015","2023","2072","2454","6437"],["2015","2072","2454","3987","6437"],["2019","2023","2072","2454","6437"],["2019","2072","2454","3987","6437"],["2023","2072","2454","2794","6437"],["2072","2454","2794","3987","6437"],["2023","2072","2454","2984","6437"],["2072","2454","2984","3987","6437"],["2014","2023","2075","2453","6437"],["2014","2075","2453","3987","6437"],["2015","2023","2075","2453","6437"],["2015","2075","2453","3987","6437"],["2019","2023","2075","2453","6437"],["2019","2075","2453","3987","6437"],["2023","2075","2453","2794","6437"],["2075","2453","2794","3987","6437"],["2023","2075","2453","2984","6437"],["2075","2453","2984","3987","6437"],["2014","2023","2075","2454","6437"],["2014","2075","2454","3987","6437"],["2015","2023","2075","2454","6437"],["2015","2075","2454","3987","6437"],["2019","2023","2075","2454","6437"],["2019","2075","2454","3987","6437"],["2023","2075","2454","2794","6437"],["2075","2454","2794","3987","6437"],["2023","2075","2454","2984","6437"],["2075","2454","2984","3987","6437"],["2014","2023","2072","2453","6438"],["2014","2023","2075","2453","6438"],["2014","2072","2453","3987","6438"],["2014","2075","2453","3987","6438"],["2015","2023","2072","2453","6438"],["2015","2023","2075","2453","6438"],["2015","2072","2453","3987","6438"],["2015","2075","2453","3987","6438"],["2019","2023","2072","2453","6438"],["2019","2023","2075","2453","6438"],["2019","2072","2453","3987","6438"],["2019","2075","2453","3987","6438"],["2023","2072","2453","2794","6438"],["2023","2075","2453","2794","6438"],["2072","2453","2794","3987","6438"],["2075","2453","2794","3987","6438"],["2023","2072","2453","2984","6438"],["2023","2075","2453","2984","6438"],["2072","2453","2984","3987","6438"],["2075","2453","2984","3987","6438"],["2023","2072","2453","3950","6438"],["2023","2075","2453","3950","6438"],["2072","2453","3950","3987","6438"],["2075","2453","3950","3987","6438"],["2014","2023","2072","2454","6438"],["2014","2023","2075","2454","6438"],["2014","2072","2454","3987","6438"],["2014","2075","2454","3987","6438"],["2015","2023","2072","2454","6438"],["2015","2023","2075","2454","6438"],["2015","2072","2454","3987","6438"],["2015","2075","2454","3987","6438"],["2019","2023","2072","2454","6438"],["2019","2023","2075","2454","6438"],["2019","2072","2454","3987","6438"],["2019","2075","2454","3987","6438"],["2023","2072","2454","2794","6438"],["2023","2075","2454","2794","6438"],["2072","2454","2794","3987","6438"],["2075","2454","2794","3987","6438"],["2023","2072","2454","2984","6438"],["2023","2075","2454","2984","6438"],["2072","2454","2984","3987","6438"],["2075","2454","2984","3987","6438"],["2023","2072","2454","3950","6438"],["2023","2075","2454","3950","6438"],["2072","2454","3950","3987","6438"],["2075","2454","3950","3987","6438"]]'>
+    <div class="left">
+        <img src="http://static.aihuishou.com/image?file=5a28b40bc60057c40a000005&amp;w=198&amp;h=198" alt="二手苹果 iPhone X手机回收" />
+        <h1>苹果 iPhone X</h1>
+        <ul class="clearfix section-price" data-highest-price="7420">
+            <li>
+                10888
+                <span>历史回收次数</span>
+            </li>
+                <li>
+                    7420
+                    <span>回收最高价/元</span>
+                </li>
+        </ul>
+        <a id="btnReselect" href="/shouji">重选机型</a>
+                    <div id="safe-tips">
+                <div class="title">
+                    <span class="text">苹果安全小贴士</span>
+                    <i class=""></i>
+                </div>
+                <div class="content">
+                    <p class="brief show">
+                        苹果手机只要恢复出厂设置，是无须担心数据泄露风险的，请放心回收。 <br />
+                        这是真的！美国FBI都破解不了。
+                    </p>
+                    <p class="">
+                        1.苹果的磁盘是基于单个文件进行加密的，因此，在iPhone上所存储的每个文件都有单独随机生成的密钥进行加密。经过多层加密之后，文件才得以安全地存储在iPhone的磁盘上。
+                    </p>
+                    <p class="">
+                        2.用户抹掉数据以及所有设置之后，就等于抹掉了所有文件的密钥。如果要想恢复数据，就需要破解逐层加密。因此通过iPhone官方提供的抹掉数据和设置后被恢复的可能几乎为零。
+                    </p>
+
+                    <p class="">
+                        3.此前FBI也遇到了破解iPhone的难题。作为普通用户， iPhone的信息安全值得信赖。
+                    </p>
+                </div>
+
+                <div class="swiper-slide" style="background: url(/images/product/iphone-privacy.png) no-repeat 0 0;"></div>
+            </div>
+                
+        <div id="saoCode">
+            <div class="cont">
+                <img src="/images/common/minProgram.jpeg" />
+                <div class="text">
+                    <p>扫码关注小程序</p>
+                    <span>更多活动更高价</span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="right">
+            <div class="select-property base-property">
+                <h2>基本信息</h2>
+                        <dl class="deactive">
+                            <dt data-value="型号">
+                                型号<i>修改</i><span class="selected-property"></span>
+
+                                                            </dt>
+                            <dd>
+
+                                <ul data-ppn-name="型号" class="clearfix">
+                                            <li class="property-value  width-small" data-id="6437" data-content="" data-imgs='[]'>
+                                                <div class="value-text">A1865</div>
+                                            </li>
+                                            <li class="property-value  width-small" data-id="6438" data-content="" data-imgs='[]'>
+                                                <div class="value-text">其他</div>
+                                            </li>
+                                </ul>
+                            </dd>
+                        </dl>
+                        <dl class="deactive">
+                            <dt data-value="存储容量">
+                                存储容量<i>修改</i><span class="selected-property"></span>
+
+                                    <a href="javascript:;" target="_blank" class="ppn-tooltip tips" data-content="&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;请点击“设置”&amp;amp;gt;“关于本机”或者“存储容量”，查看“容量”一项。&amp;lt;/span&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590b1b74c8bb600000000031"]'>
+                                        如何查看存储容量
+                                        <span class="icon">
+
+                                            <span class="tooltip-cover tooltip-arrow-top">
+                                                <span class="bg"></span>
+                                                <span class="cover"></span>
+                                            </span>
+                                        </span>
+
+                                    </a>
+                                                            </dt>
+                            <dd>
+
+                                <ul data-ppn-name="存储容量" class="clearfix">
+                                            <li class="property-value  width-small" data-id="2023" data-content="" data-imgs='[]'>
+                                                <div class="value-text">64G</div>
+                                            </li>
+                                            <li class="property-value  width-small" data-id="3987" data-content="" data-imgs='[]'>
+                                                <div class="value-text">256G</div>
+                                            </li>
+                                </ul>
+                            </dd>
+                        </dl>
+                        <dl class="deactive">
+                            <dt data-value="购买渠道">
+                                购买渠道<i>修改</i><span class="selected-property"></span>
+
+                                                            </dt>
+                            <dd>
+
+                                <ul data-ppn-name="购买渠道" class="clearfix">
+                                            <li class="property-value hasIllus" data-id="2014" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-size:12px;font-family:Microsoft YaHei;&quot;&amp;gt;在设置&amp;amp;gt;通用&amp;amp;gt;关于本机中，&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-family:&amp;amp;quot;font-size:12px;&quot;&amp;gt;型号开头为M，且有“CH/”字母。&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;br /&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590c553922438c6828000001"]'>
+                                                <div class="value-text">大陆国行（有“进网许可”标签）</div>
+                                                    <div class="tips"></div>
+                                            </li>
+                                            <li class="property-value hasIllus" data-id="2984" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;苹果官方在大陆提供的置换机。在设置&amp;amp;gt;通用&amp;amp;gt;关于本机中，型号开头为N，且有“CH/”字母。&amp;lt;/span&amp;gt;&#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;div&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:&amp;amp;quot;&quot;&amp;gt;&amp;lt;br /&amp;gt;&#xA;&amp;lt;/span&amp;gt;&#xA;&amp;lt;/div&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590c573e6cd3a0ac19000005"]'>
+                                                <div class="value-text">国行官换机（系统型号N开头）</div>
+                                                    <div class="tips"></div>
+                                            </li>
+                                            <li class="property-value hasIllus" data-id="2015" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;在设置&amp;amp;gt;通用&amp;amp;gt;关于本机中，型号中有“ZP/”字母。&amp;lt;/span&amp;gt;&#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-size:12px;font-family:Microsoft YaHei;&quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size:12px;font-family:Microsoft YaHei;&quot;&amp;gt;&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;br /&amp;gt;&#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590c55db22438c6828000005"]'>
+                                                <div class="value-text">香港行货（香港购买，全球联保）</div>
+                                                    <div class="tips"></div>
+                                            </li>
+                                            <li class="property-value hasIllus" data-id="2794" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;水货：在设置&amp;amp;gt;通用&amp;amp;gt;关于本机中，型号斜杠“/”前字母既不是“CH”也不是“ZP”。&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;无锁：国外销售，但可以自由使用中国运营商的SIM卡。&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=59202371b1f206000000002d"]'>
+                                                <div class="value-text">水货无锁（非国行港行，其它地区）</div>
+                                                    <div class="tips"></div>
+                                            </li>
+                                            <li class="property-value hasIllus" data-id="2019" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-size:12px;font-family:Microsoft YaHei;&quot;&amp;gt;有锁：国外发行有指定通讯运营商的手机，需要“卡贴”才可以使用国内SIM卡。SIM卡槽的样式往往也与通常不同。&amp;lt;/span&amp;gt;&#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-size:12px;font-family:Microsoft YaHei;&quot;&amp;gt;水货：“关于本机”＞“型号”中，斜杠“/”前既不是CH也不是ZP。&amp;lt;/span&amp;gt;&#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=592022f7b1f2060000000029"]'>
+                                                <div class="value-text">水货有锁（国外发行机型，需“卡贴”解锁后正常通话）</div>
+                                                    <div class="tips"></div>
+                                            </li>
+                                            <li class="property-value hasIllus" data-id="3950" data-content="&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;在设置&amp;amp;gt;通用&amp;amp;gt;关于本机中，型号开头是“3A...”或“3C...&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;”。&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=5923a4a308bae40000000001"]'>
+                                                <div class="value-text">展示机</div>
+                                                    <div class="tips"></div>
+                                            </li>
+                                </ul>
+                            </dd>
+                        </dl>
+                        <dl class="deactive">
+                            <dt data-value="机身颜色">
+                                机身颜色<i>修改</i><span class="selected-property"></span>
+
+                                                            </dt>
+                            <dd>
+
+                                <ul data-ppn-name="机身颜色" class="clearfix">
+                                            <li class="property-value  width-small" data-id="2453" data-content="" data-imgs='[]'>
+                                                <div class="value-text">白色</div>
+                                            </li>
+                                            <li class="property-value  width-small" data-id="2454" data-content="" data-imgs='[]'>
+                                                <div class="value-text">黑色</div>
+                                            </li>
+                                </ul>
+                            </dd>
+                        </dl>
+                        <dl class="deactive">
+                            <dt data-value="国内保修情况">
+                                国内保修情况<i>修改</i><span class="selected-property"></span>
+
+                                    <a href="https://checkcoverage.apple.com/cn/zh" target="_blank" class="ppn-tooltip tips" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;在 “设置”&amp;amp;gt;“通用”&amp;amp;gt;“关于本机”中寻找序列号或IMEI号，&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-family:&amp;amp;quot;&quot;&amp;gt;输入以下网址进行查询即可，&amp;lt;/span&amp;gt;&#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;&amp;lt;a href=&quot;https://checkcoverage.apple.com/cn/zh&quot; target=&quot;_blank&quot;&amp;gt;&amp;lt;span style=&quot;color:#00D5FF;&quot;&amp;gt;https://checkcoverage.apple.com/cn/zh&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;（周日无法查询）&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;非国行港行的机器，也请选择“保修一个月或过保”。&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;br /&amp;gt;&#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;br /&amp;gt;&#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=5902c2c0fe9db30000000009","http://static.aihuishou.com/image?file=5902c2c6fe9db3000000000d"]'>
+                                        如何查看国内保修情况
+                                        <span class="icon">
+
+                                            <span class="tooltip-cover tooltip-arrow-top">
+                                                <span class="bg"></span>
+                                                <span class="cover"></span>
+                                            </span>
+                                        </span>
+
+                                    </a>
+                                                            </dt>
+                            <dd>
+
+                                <ul data-ppn-name="国内保修情况" class="clearfix">
+                                            <li class="property-value  width-small" data-id="2072" data-content="" data-imgs='[]'>
+                                                <div class="value-text">保修一个月以上</div>
+                                            </li>
+                                            <li class="property-value  width-small" data-id="2075" data-content="" data-imgs='[]'>
+                                                <div class="value-text">保修一个月内或过保</div>
+                                            </li>
+                                </ul>
+                            </dd>
+                        </dl>
+            </div>
+                    <div class="select-property quickInquiry deactive">
+                <h2>您的机器是否为以下情况</h2>
+                <dl class="deactive">
+                    <dt data-value="快捷估价">
+                        快捷估价<i>修改</i><span class="selected-property"></span>
+                    </dt>
+                    <dd>
+                        <ul class="clearfix">
+                                <li class="property-value hasIllus" data-configid="3"  data-groupid="27"  data-value="无法开机/无法进入桌面 " data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:&#x27;Microsoft YaHei&#x27;;font-size:16px;&quot;&amp;gt;&amp;lt;span style=&quot;font-size:12px;font-family:Microsoft YaHei;&quot;&amp;gt;（1）开机反复重启，或停留在LOGO界面，或显示连接iTunes，无法进入桌面；（2）充电按&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size:12px;font-family:Microsoft YaHei;&quot;&amp;gt;开机键或者其他按键无任何反应。&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:&#x27;Microsoft YaHei&#x27;;font-size:16px;&quot;&amp;gt;&amp;lt;br /&amp;gt;&#xA;&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=59af74b244e1f80000000006","http://static.aihuishou.com/image?file=59af756d44e1f80000000012"]'>
+                                            <img src="http://static.aihuishou.com/image?file=5ac38676b298910000000001" />
+                                    <p class="property_value">无法开机/无法进入桌面 </p>
+                                </li>
+                                <li class="property-value hasIllus" data-configid="3"  data-groupid="27"  data-value="iCloud无法注销&#xA0;&#xA0;" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span&amp;gt;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;iCloud是无法通过还原出厂设置来解除的。以防质检时需要询问您，或者影响回收价格，请您解除iCloud账户再回收。&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=5a4ddcda006a298817000001","http://static.aihuishou.com/image?file=5a4ddce0006a298817000005"]'>
+                                            <img src="http://static.aihuishou.com/image?file=5ac7713027b93e0000000001" />
+                                    <p class="property_value">iCloud无法注销&#xA0;&#xA0;</p>
+                                </li>
+                                <li class="property-value hasIllus" data-configid="3"  data-groupid="28"  data-value="全新机，包装配件齐全未使用" data-content="&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span style=&amp;quot;font-family:&amp;amp;quot;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:Microsoft YaHei;&amp;quot;&amp;gt;未拆封或仅拆封包装。&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-family:Microsoft YaHei;&amp;quot;&amp;gt;机器、包装、配件齐全，机器未激活使用，机器、配件无外观瑕疵。&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &#xD;&#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590bfd45c4c234000000002d"]'>
+                                            <img src="http://static.aihuishou.com/image?file=5ac38716b29891000000000d" />
+                                    <p class="property_value">全新机，包装配件齐全未使用</p>
+                                </li>
+                            <li class="property-value" data-configid="no" data-value="无以上情况，进行下一步">
+                                <p class="property_value lastLi">无以上情况<br />进行下一步</p>
+                            </li>
+                        </ul>
+                    </dd>
+                </dl>  
+            </div>    
+                    <div class="select-property appearance-property deactive">
+                <h2>使用情况</h2>
+                        <dl class=deactive>
+                            <dt class="lock-account" data-value="iCloud是否注销">iCloud是否注销<i>修改</i><span class="selected-property"></span></dt>
+                            <dd>
+                                <ul class="clearfix">
+                                                                                                                <li class="property-value hasIllus " data-id="2100" data-content="&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;爱回收会验证（1）还原激活苹果手机时无账号；（2）IMEI查询苹果数据无账号。均满足才是iCloud已注销，否则为iCloud未注销。&amp;lt;/span&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=5a4ddce5006a298817000009"]' data-summary="">
+                                            <div class="value-text">iCloud已注销&#xA0;&#xA0;</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus is-unlock" data-id="2101" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span&amp;gt;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;iCloud是无法通过还原出厂设置来解除的。以防质检时需要询问您，或者影响回收价格，请您解除iCloud账户再回收。&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=5a4ddcda006a298817000001","http://static.aihuishou.com/image?file=5a4ddce0006a298817000005"]' data-summary="">
+                                            <div class="value-text">iCloud无法注销&#xA0;&#xA0;</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                </ul>
+                            </dd>
+                        </dl>
+                        <dl class=deactive>
+                            <dt class="" data-value="边框背板">边框背板<i>修改</i><span class="selected-property"></span></dt>
+                            <dd>
+                                <ul class="clearfix">
+                                                                                                                <li class="property-value hasIllus " data-id="2125" data-content="&amp;lt;span style=&amp;quot;font-family:Microsoft YaHei;&amp;quot;&amp;gt;机身外壳、耳机孔、按键等处无任何划痕、磕碰掉漆，按键、外壳无缺失。&amp;lt;/span&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590c8e7721cfcc5c34000015"]' data-summary="7.81％用户选择此项">
+                                            <div class="value-text">外壳完美，无任何使用痕迹</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> 7.81％用户选择此项</span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus " data-id="2126" data-content="&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span style=&amp;quot;font-family:&amp;amp;quot;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:&amp;amp;quot;&amp;quot;&amp;gt;边框、背板或者机身LOGO，光照下可见划痕。&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &#xD;&#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590bfd578853501011000015"]' data-summary="25.23％用户选择此项">
+                                            <div class="value-text">外壳有轻微使用痕迹</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> 25.23％用户选择此项</span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus " data-id="2128" data-content="&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span style=&amp;quot;font-family:&amp;amp;quot;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:Microsoft YaHei;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &#xD;&#xA;&amp;lt;/p&amp;gt;&#xD;&#xA;&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span&amp;gt;&amp;lt;span style=&amp;quot;font-family:Microsoft YaHei;&amp;quot;&amp;gt;机身、按键、LOGO等均是外壳。有任何磕碰、掉漆、缺失、变形则属于外壳磕碰。请向右滑动查看详细说明。&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&#xD;&#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590bfd30c4c2340000000029","http://static.aihuishou.com/image?file=59159432ac12d6a407000001","http://static.aihuishou.com/image?file=59159436ac12d6a407000005","http://static.aihuishou.com/image?file=591593f197b07e0000000001","http://static.aihuishou.com/image?file=59b773ad49f9e90000000005"]' data-summary="66.53％用户选择此项">
+                                            <div class="value-text">外壳有轻微掉漆、磕碰</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> 66.53％用户选择此项</span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus " data-id="2124" data-content="&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span style=&amp;quot;font-family:&amp;amp;quot;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:Microsoft YaHei;&amp;quot;&amp;gt;未拆封或仅拆封包装。&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;font-family:Microsoft YaHei;&amp;quot;&amp;gt;机器、包装、配件齐全，机器未激活使用，机器、配件无外观瑕疵。&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &#xD;&#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590bfd45c4c234000000002d"]' data-summary="0.42％用户选择此项">
+                                            <div class="value-text">全新机，包装配件齐全未使用</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> 0.42％用户选择此项</span>
+                                            </p>
+
+                                        </li>
+                                </ul>
+                            </dd>
+                        </dl>
+                        <dl class=deactive>
+                            <dt class="" data-value="屏幕外观">屏幕外观<i>修改</i><span class="selected-property"></span></dt>
+                            <dd>
+                                <ul class="clearfix">
+                                                                                                                <li class="property-value hasIllus " data-id="2118" data-content="&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;屏幕玻璃及边缘无划痕、破损、掉漆、气泡等任何问题。&amp;lt;/span&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590c8e86118e2e0000000029"]' data-summary="">
+                                            <div class="value-text">屏幕完美，无任何划痕</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus " data-id="2120" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:Microsoft YaHei;font-size:16px;&quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-family:Microsoft YaHei;font-size:16px;&quot;&amp;gt;&amp;lt;span style=&quot;font-size:12px;&quot;&amp;gt;撕开贴膜，布擦拭干净。用日光灯、户外等强光照下可见划痕。&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size:12px;&quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br /&amp;gt;&#xA;&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590bfd098853501011000009"]' data-summary="">
+                                            <div class="value-text">屏幕有轻微划痕</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus " data-id="2122" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:&amp;amp;quot;&quot;&amp;gt;屏幕有裂痕，屏幕玻璃边缘破损或者掉漆，或者主显示区域四角呈灰色、反光或有气泡（内屏损伤），请右滑查看明细。&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;br /&amp;gt;&#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590bfd11885350101100000d","http://static.aihuishou.com/image?file=59201c9221a5e7c006000021","http://static.aihuishou.com/image?file=5947a3a813c3e86c15000025"]' data-summary="">
+                                            <div class="value-text">屏幕有缺角/碎裂</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                </ul>
+                            </dd>
+                        </dl>
+                        <dl class=deactive>
+                            <dt class="" data-value="屏幕显示">屏幕显示<i>修改</i><span class="selected-property"></span></dt>
+                            <dd>
+                                <ul class="clearfix">
+                                                                                                                <li class="property-value hasIllus " data-id="2114" data-content="&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;显示在纯色界面下，颜色、亮度均匀，无亮点、发黄、发红、色斑、闪烁等情况。&amp;lt;/span&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590bfdddc4c2340000000049"]' data-summary="">
+                                            <div class="value-text">显示完美，无任何异常</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus " data-id="2115" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:&amp;amp;quot;&quot;&amp;gt;屏幕上存在颜色异常或亮度异常的光点或斑块；或者显示出现分层，颜色深浅不一。&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=59278c4758f43c4c24000005","http://static.aihuishou.com/image?file=59278bdb62fad70000000009","http://static.aihuishou.com/image?file=5a2f4509f85e2c0000000015","http://static.aihuishou.com/image?file=5a2f450ef1a41f0c08000015","http://static.aihuishou.com/image?file=5a2f4ad7f85e2c000000001d"]' data-summary="">
+                                            <div class="value-text">不影响使用，但有色差/亮坏点/色斑</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus " data-id="2475" data-content="&amp;lt;span&amp;gt;&amp;lt;span style=&quot;font-family:&amp;amp;quot;&quot;&amp;gt;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;屏幕显示出现漏液（黑色不显示区域）、横竖线、闪烁、老化（纯色界面透出图案）等问题，影响正常使用。请向右滑查看明细。&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=5a2f7230f1a41f0c08000035","http://static.aihuishou.com/image?file=5a2f723af1a41f0c08000039","http://static.aihuishou.com/image?file=5a2f7277f85e2c000000002d"]' data-summary="">
+                                            <div class="value-text">显示异常，有漏液/错乱/严重老化</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus " data-id="3304" data-content="&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;屏幕黑屏不显示；或者虽然亮屏，但没有任何地方可以显示出文字等信息。&amp;lt;/span&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590bfdd7c4c2340000000045"]' data-summary="">
+                                            <div class="value-text">屏幕无法显示</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                </ul>
+                            </dd>
+                        </dl>
+                        <dl class=deactive>
+                            <dt class="" data-value="维修情况">维修情况<i>修改</i><span class="selected-property"></span></dt>
+                            <dd>
+                                <ul class="clearfix">
+                                                                                                                <li class="property-value hasIllus " data-id="2067" data-content="&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;机身内部无任何维修痕迹，零件齐全无焊接、撬痕，螺丝未缺失&amp;lt;/span&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590c0f36503be6c437000006"]' data-summary="">
+                                            <div class="value-text">无维修情况</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus " data-id="2965" data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;在屏幕上有盖章，或者iPhone 5、5S、5C、SE、6、6 plus屏幕露出二维码，或者排线顺序与原装屏不符。&amp;lt;/span&amp;gt;&#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=590bedd9b4bb47a42b000005"]' data-summary="">
+                                            <div class="value-text">屏幕维修</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus " data-id="2070" data-content="&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span style=&amp;quot;font-family:Microsoft YaHei;font-size:16px;&amp;quot;&amp;gt; &amp;lt;/span&amp;gt; &#xD;&#xA;&amp;lt;/p&amp;gt;&#xD;&#xA;&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span style=&amp;quot;font-family:&amp;amp;quot;&amp;quot;&amp;gt;1、改容量、一体机换壳；&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height:1.5;font-family:&amp;amp;quot;&amp;quot;&amp;gt;主板处盖章、黑纸破损、盖板拆开、焊接飞线；系统无IMEI号，或者与机身IMEI号不一致。&amp;lt;/span&amp;gt; &#xD;&#xA;&amp;lt;/p&amp;gt;&#xD;&#xA;&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span style=&amp;quot;font-family:&amp;amp;quot;&amp;quot;&amp;gt;2、&amp;lt;/span&amp;gt;&amp;lt;span style=&amp;quot;line-height:1.5;font-family:&amp;amp;quot;&amp;quot;&amp;gt;出现以下情况数量≥3，就属于多处维修痕迹：&amp;lt;/span&amp;gt; &#xD;&#xA;&amp;lt;/p&amp;gt;&#xD;&#xA;&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span style=&amp;quot;font-family:&amp;amp;quot;&amp;quot;&amp;gt; 1)内部螺丝、零件有缺失；&amp;lt;/span&amp;gt; &#xD;&#xA;&amp;lt;/p&amp;gt;&#xD;&#xA;&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span style=&amp;quot;font-family:&amp;amp;quot;&amp;quot;&amp;gt; 2)电池被更换或松动有撬痕；&amp;lt;/span&amp;gt; &#xD;&#xA;&amp;lt;/p&amp;gt;&#xD;&#xA;&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span style=&amp;quot;font-family:&amp;amp;quot;&amp;quot;&amp;gt; 3)维修过尾插或扬声器；&amp;lt;/span&amp;gt; &#xD;&#xA;&amp;lt;/p&amp;gt;&#xD;&#xA;&amp;lt;p&amp;gt;&#xD;&#xA;&#x9;&amp;lt;span style=&amp;quot;font-family:&amp;amp;quot;&amp;quot;&amp;gt; 4)有贴标，或者非主板处有盖章；&amp;lt;/span&amp;gt; &#xD;&#xA;&amp;lt;/p&amp;gt;" data-imgs='["http://static.aihuishou.com/image?file=58cb82ea4448f31c2e000005"]' data-summary="">
+                                            <div class="value-text">主板维修/多处维修痕迹</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                        <li class="property-value hasIllus " data-id="2069" data-content="若手机同时有屏幕维修、主板维修/多处维修痕迹时，选择“屏幕和主板均有维修”。" data-imgs='["http://static.aihuishou.com/image?file=5afdb869cc1a18dc17000001"]' data-summary="">
+                                            <div class="value-text">屏幕和主板均有维修</div>
+                                                <div class="tips"></div>
+                                            <p class="summary">
+                                                <span class="smallIcon">*</span>
+                                                <span class="text"> </span>
+                                            </p>
+
+                                        </li>
+                                </ul>
+                            </dd>
+                        </dl>
+
+            </div>
+                    <div class="select-property function-property deactive">
+                <h2>是否存在以下问题（可多选）<small>（若无问题，点击“免费询价”）</small></h2>
+                <dl class="checkbox deactive">
+                    <dd>
+                        <ul class="clearfix">
+                                        <li class="property-value" data-id="5299" data-default="5300" data-imgs='[]' data-content="">
+                                            <span class="inquiry-default displayicon"></span>
+                                            <span class="property_value">面容无法录入和识别</span>
+                                        </li>
+                                        <li class="property-value" data-id="2107" data-default="2106" data-imgs='[]' data-content="">
+                                            <span class="inquiry-charge displayicon"></span>
+                                            <span class="property_value">充电无反应/充电孔接触不良</span>
+                                        </li>
+                                        <li class="property-value hasIllus" data-id="2135" data-default="2134" data-imgs='["http://static.aihuishou.com/image?file=59202918b1f206000000003d","http://static.aihuishou.com/image?file=59202928b1f2060000000041"]' data-content="&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;机身弯折，或者呈现弧度。建议以直尺测量，若有空隙则为弯曲。电池鼓包也属于弯曲。&amp;lt;/span&amp;gt;">
+                                            <span class="inquiry-bodydeformed displayicon"></span>
+                                            <span class="property_value">机身弯曲</span>
+                                        </li>
+                                        <li class="property-value" data-id="3169" data-default="3168" data-imgs='[]' data-content="">
+                                            <span class="inquiry-default displayicon"></span>
+                                            <span class="property_value">触摸失灵/延迟</span>
+                                        </li>
+                                        <li class="property-value" data-id="2109" data-default="2108" data-imgs='[]' data-content="">
+                                            <span class="inquiry-wifi displayicon"></span>
+                                            <span class="property_value">wifi无法打开/无法连接</span>
+                                        </li>
+                                        <li class="property-value hasIllus" data-id="2027" data-default="2026" data-imgs='["http://static.aihuishou.com/image?file=59af74b244e1f80000000006","http://static.aihuishou.com/image?file=59af756d44e1f80000000012"]' data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:&#x27;Microsoft YaHei&#x27;;font-size:16px;&quot;&amp;gt;&amp;lt;span style=&quot;font-size:12px;font-family:Microsoft YaHei;&quot;&amp;gt;（1）开机反复重启，或停留在LOGO界面，或显示连接iTunes，无法进入桌面；（2）充电按&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-size:12px;font-family:Microsoft YaHei;&quot;&amp;gt;开机键或者其他按键无任何反应。&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;&#xA;&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:&#x27;Microsoft YaHei&#x27;;font-size:16px;&quot;&amp;gt;&amp;lt;br /&amp;gt;&#xA;&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;">
+                                            <span class="inquiry-startup displayicon"></span>
+                                            <span class="property_value">无法开机/无法进入桌面 </span>
+                                        </li>
+                                        <li class="property-value" data-id="2047" data-default="2045" data-imgs='[]' data-content="">
+                                            <span class="inquiry-call displayicon"></span>
+                                            <span class="property_value">通话功能不正常</span>
+                                        </li>
+                                        <li class="property-value" data-id="2105" data-default="2104" data-imgs='[]' data-content="">
+                                            <span class="inquiry-camera displayicon"></span>
+                                            <span class="property_value">拍摄画面模糊/抖动/有斑</span>
+                                        </li>
+                                        <li class="property-value hasIllus" data-id="2130" data-default="2129" data-imgs='["http://static.aihuishou.com/image?file=590bff14885350101100001d","http://static.aihuishou.com/image?file=590bff1e8853501011000022"]' data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-family:&amp;amp;quot;&quot;&amp;gt;如有以下三种情况之一，请选择机身进水或受潮：1.防潮标变色（图片圈出位置）或者缺失；2.螺丝或机身内部有生锈、发霉、积水或者水印；3.摄像头内有水珠，水雾。&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;">
+                                            <span class="inquiry-bodywater displayicon"></span>
+                                            <span class="property_value">机身进水或受潮</span>
+                                        </li>
+                                        <li class="property-value hasIllus" data-id="2809" data-default="2808" data-imgs='["http://static.aihuishou.com/image?file=560b5b66282d97c0210005dc"]' data-content="&amp;lt;p&amp;gt;&#xA;&#x9;&amp;lt;span style=&quot;font-size:16px;font-family:Microsoft YaHei;&quot;&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;span style=&quot;font-family:Microsoft YaHei;&quot;&amp;gt;指南针不会随着手机的摆动而转动；或无法稳定指向南面或者北面&amp;lt;/span&amp;gt; &#xA;&amp;lt;/p&amp;gt;">
+                                            <span class="inquiry-compass displayicon"></span>
+                                            <span class="property_value">指南针功能不正常</span>
+                                        </li>
+                        </ul>
+                    </dd>
+                </dl>
+            </div>
+        <div class="hidden" id="inquiry-captcha" data-url="/util/GetImageCaptcha.html">
+            <span>为了家庭和谐，防止你卖掉太多，请输入验证码：</span>
+            <input placeholder="请输入验证码" type="text" autocomplete="off">
+            <img src="">
+        </div>
+        <div class="footer clearfix">
+            <a class="disabled ahs-track-click" data-track-category="PC-Productdetail" data-track-action="inquirybtn-click" data-track-name="inquirybtn-click" id="submit" href="/userinquiry/create.html" data-pid="25827" data-configid="" data-mid="">免费询价</a>
+        </div>
+
+
+
+    </div>
+</div>
+<input type="hidden" id="product_brand" value="苹果" />
+<input type="hidden" id="track-product-id" value="25827" />
+<input type="hidden" id="product_premonthavgprice" value="2706" />
+
+<div class="unlock-tips-wrap">
+    <div class="unlock-tips">
+        <p>未解锁账号密码将会影响最终报价</p>
+    </div>
+</div>
+
+
+    </div>
+    <!-- 侧边栏导航 -->
+    <div id="aside">
+        <div class="aside_nav" id="erCode" title="扫码关注">
+           <i></i>
+           <p>扫码关注</p>
+           <div class="desc">
+                <!-- <img id="asideImg" src="" alt="小程序" /> -->
+                <img src="/images/common/xiaochengxu_ercode.jpeg" alt="小程序" />
+                <p>扫码关注小程序<br/><span>掌上回收更便捷</span></p>
+            </div>
+        </div>
+        <div class="aside_nav" id="kefu_help" title="联系爱回收客服">
+            <div class="aside_icon"></div>
+            <div class="text">客服</div>
+            <p>联系客服</p>
+            <ul class="desc">
+                <li>机器人客服<br>7*24小时</li>
+                <li>人工客服<br>9:00-21:00</li>
+            </ul>    
+        </div>
+        <div class="aside_nav" id="goTop" title="返回顶部">
+            <div class="aside_icon"></div>
+            <p>返回顶部</p>
+        </div>
+    </div>
+    <div id="allmap"></div>
+    <div id="foot" class="">
+    <div class="footer_info">
+        <div id="footerinfo_left">
+            <dl>
+                <dt>交易方式</dt>
+                <!-- <dd><a href="/help/ondoorMap.html" title="上海交易方式" class="no_hover" target="_blank">上海交易方式</a></dd>
+                <dd><a href="/help/ondoorMapBJ.html" title="北京交易方式" class="no_hover" target="_blank">北京交易方式</a></dd>
+                <dd><a href="/help/TradeMode.html" title="全国交易方式" class="no_hover" target="_blank">全国交易方式</a></dd> -->
+                <dd><a href="/pc/index.html#/helpcenter/ondoormap/1" title="上海交易方式" class="no_hover" target="_blank">上海交易方式</a></dd>
+                <dd><a href="/pc/index.html#/helpcenter/ondoormap/31" title="北京交易方式" class="no_hover" target="_blank">北京交易方式</a></dd>
+                <dd><a href="/pc/index.html#/helpcenter/trademode" title="全国交易方式" class="no_hover" target="_blank">全国交易方式</a></dd>
+            </dl>
+            <dl>
+                <dt>质检说明</dt>
+                <!-- <dd><a href="/help/CheckDefinition.html" title="质检名词解释" class="no_hover" target="_blank">质检名词解释</a></dd>
+                <dd><a href="/help" title="专业质检说明" class="no_hover" target="_blank">专业质检说明</a></dd> -->
+                <dd><a href="/pc/index.html#/helpcenter/checkdefinition" title="质检名词解释" class="no_hover" target="_blank">质检名词解释</a></dd>
+                <dd><a href="/pc/index.html#/helpcenter/proqcdescription" title="专业质检说明" class="no_hover" target="_blank">专业质检说明</a></dd>
+            </dl>
+            <dl>
+                <dt>帮助中心</dt>
+                <!-- <dd><a href="/help/CommonQuestion.html" title="手机回收常见问题" class="no_hover" target="_blank">常见问题</a></dd>
+                <dd><a href="/help/AhsServices.html" title="服务条款" class="no_hover" target="_blank">服务条款</a></dd> -->
+                <dd><a href="/pc/index.html#/helpcenter/commonquestion" title="手机回收常见问题" class="no_hover" target="_blank">常见问题</a></dd>
+                <dd><a href="/pc/index.html#/helpcenter/ahsservices" title="服务条款" class="no_hover" target="_blank">服务条款</a></dd>
+                <dd><a href="/pc/index.html#/helpcenter/secret" title="隐私政策" class="no_hover" target="_blank">隐私政策</a></dd>
+            </dl>
+            <dl>
+                <dt>关于我们</dt>
+                <dd><a href="/home/Intro.html" title="了解爱回收" class="no_hover" target="_blank">了解我们</a></dd>
+                <!-- <dd><a href="/help/Recruit.html" title="加入爱回收" class="no_hover" target="_blank">加入我们</a></dd>
+                <dd><a href="/help/Recycle.html?name=RecycleCoop" title="加盟合作" class="no_hover" target="_blank">加盟合作</a></dd>
+                <dd><a href="/help/Recycle.html?name=BusinessCoop" title="商务合作" class="no_hover" target="_blank">商务合作</a></dd> -->
+                <dd><a href="/pc/index.html#/helpcenter/recruit" title="加入爱回收" class="no_hover" target="_blank">加入我们</a></dd>
+                <dd><a href="/pc/index.html#/helpcenter/recycle/businesscoop" title="商务合作" class="no_hover" target="_blank">商务合作</a></dd>
+                <dd><a href="http://pai.aihuishou.com/dist/static/copy/propaganda.html?ref=Qguanwang" title="回收商加盟" class="no_hover" target="_blank">回收商加盟</a></dd>
+            </dl>       
+            <dl class="follow-qr">
+                <dd class="qr-wrap">
+                    <img src="/images/common/qrcode-app.png" alt="爱回收app下载" />
+                    <figcaption>爱回收APP</figcaption>
+                </dd>
+                <dd class="qr-wrap">
+                    <img src="/images/common/qrcode-wechat.png" alt="爱回收微信公众号" />
+                    <figcaption>微信公众号</figcaption>
+                </dd>
+            </dl>
+        </div>
+        <div id="footerinfo_right">
+            <div class="icon_kefu_footer kefu_pop"><div class="icon_kefu_text">在线客服</div></div>
+            <div class="footerinfo_time">
+                周一至周日<br/>
+                24小时在线
+            </div>
+            <div class="footerinfo_addr">
+                <p>爱回收寄件地址：上海市宝山区纪蕴路588号1号楼6楼 唐生收</p>
+                <p>唐生收 021-80331390</p>
+                <br /><br />
+                <a href="/pc/index.html#/helpcenter/nationaltrade" target="_blank" class="no_hover" title="爱回收免费快递说明">快递费用说明</a>
+            </div>
+
+        </div>
+        <br />
+        <br />
+    </div>
+
+
+    <div class="copyright">
+        
+        <a class="no_hover" href="http://www.miibeian.gov.cn/" title="爱回收：ICP号" rel="external nofollow" target="_blank"><div class="ICP"></div></a>&nbsp;&nbsp;
+        <a class="no_hover" href="http://www.alipay.com" title="支付宝商家认证" rel="external nofollow" target="_blank"><div class="alipay_foot"></div></a>&nbsp;&nbsp;
+        <a class="no_hover" href='https://www.sgs.gov.cn/lz/licenseLink.do?method=licenceView&entyId=dov73ne26zbqq0ili575jvlptdlmfxy2vl' rel="external nofollow" target="_blank" title="上海市工商局"><div class="gongshangju_foot"></div></a>&nbsp;&nbsp;
+        <a class="no_hover" href='http://www.shjbzx.cn/' rel="external nofollow" target="_blank" title="上海网警"><div class="wangjing_foot"></div></a>&nbsp;&nbsp;
+        <a class="no_hover" href='http://webscan.360.cn/index/checkwebsite?url=www.aihuishou.com' rel="external nofollow" target="_blank" title="360网站安全检测100分"><div class="check360_foot"></div></a>
+        <br /><br />
+        <div class="company-addr">宝山运营中心：上海市宝山区纪蕴路588号1号楼6楼 </div>
+Copyright 2010 - 2017 上海悦易网络信息技术有限公司 &nbsp; &nbsp; <a href="http://www.miitbeian.gov.cn/" class="ip" target="_blank" title="工信部">沪ICP备10043802号 - 2</a> &nbsp; &nbsp; <i class="hgw"></i><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31011002002333" class="ip" target="_blank" title="沪公网安备">沪公网安备 31011002002333号</a>
+    </div>
+
+
+</div>
+
+    <div id="popwindow_shadow_bg"><iframe frameborder="0" id="popwindow_frame"></iframe></div>
+    <div class="pop_window" id="popWindow"></div>
+    <div id="pageTemplate" style="display: none;">
+        
+    </div>
+    <input id="userId" value="" type="hidden" />
+    <input id="ahs_um" value="" type="hidden" />
+    <input id="userIsLogin" value="0" type="hidden" />
+    
+    
+    
+    <script src="/js/common/ahs.min.js?v=Er8xZM8dRoDcTtqrmPic8WVDSHDUDvnStRv5b5EPnow" type="text/javascript"></script>
+    <script src="/js/common/common.min.js?v=KWuS-BTCtWzR9uacm29I46uRiYgYOdEm_5AiubKEsj0" type="text/javascript"></script>
+    <script type="text/javascript">
+    /* Google Statistics */
+    //_ahs.push(function () {
+    //    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    //    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    //    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    //});
+
+
+    /* GA New */
+    _ahs.push(function () {  
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-24492769-1', 'auto');
+      ga('require', 'ecommerce');
+      ga('send', 'pageview');         
+    })
+
+     
+    var _vds = _vds || [];
+    window._vds = _vds;
+    (function () {
+        _vds.push(['setAccountId', 'b053e784452fb69e']);
+        (function () {
+            var vds = document.createElement('script');
+            vds.type = 'text/javascript';
+            vds.async = true;
+            vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(vds, s);
+        })();
+    })();
+
+    /* DSP mediav Statistics */
+    _ahs.push(function () {
+        _mvq.push(['$logConversion']);
+        var mvl = document.createElement('script');
+        mvl.type = 'text/javascript'; mvl.async = true;
+        mvl.src = ('https:' == document.location.protocol ? 'https://static-ssl.mediav.com/mvl.js' : 'http://static.mediav.com/mvl.js');
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(mvl, s);
+    });
+
+    
+    var _trc_ = {}, _prm_ = {};
+    /* BAIDU Statistics */
+    _ahs.push(function () {
+        // 默认
+        var bd = document.createElement('script');
+        bd.type = 'text/javascript'; bd.async = true;
+        bd.src = ('https:' == document.location.protocol ? 'https://hm.baidu.com/h.js?6206c0fb3ed4e6feb904c97664c91527' : 'http://hm.baidu.com/h.js?6206c0fb3ed4e6feb904c97664c91527');
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(bd, s);
+
+
+        // 百姓网充值统计
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?6206c0fb3ed4e6feb904c97664c91527";
+            var s = document.getElementsByTagName("script")[0]; 
+            s.parentNode.insertBefore(hm, s);
+        })();
+
+        //var _trc_ = _trc_ || {}, _prm_ = _prm_ || {};
+        (function () {
+            var e = document.createElement("script");
+            e.async = true;
+            e.src = "//trac.imarvelous.cn/tracking.js?ffb076727652c0abfb19096cb2b36a1c";
+            var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(e, s);
+        }
+         )();
+    });
+
+    /* Criteo 推送 */
+    //_ahs.push(function () {
+    //    // 默认
+    //    (function () {
+    //        var criteo = document.createElement("script");
+    //        criteo.async = true;
+    //        criteo.src = "//static.criteo.net/js/ld/ld.js";
+    //        var s = document.getElementsByTagName("script")[0];
+    //        s.parentNode.insertBefore(criteo, s);
+    //    })();
+    //});
+
+
+    /*
+        VE 亿起发
+    */
+    _ahs.push(function () {        
+        !function(){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src="//configch2.veinteractive.com/tags/F1B08B93/4A95/4897/820A/2B0897BC6C3E/tag.js";var b=document.getElementsByTagName("head")[0];if(b)b.appendChild(a,b);else{var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}}();
+    });
+
+
+    /* 小能 */
+    _ahs.push(function () {
+        var $body = $(document.body);
+        if (!$body.hasClass('diyXiaoneng')) {
+            _ahs.push([
+                       function () {
+                           var userId = document.getElementById("userId").value;
+                           var userIsLogin = document.getElementById("userIsLogin").value;
+                           var ahs_um = document.getElementById("ahs_um").value;
+                           NTKF_PARAM = {
+                               siteid: "kf_9741", //企业ID，必填，取值参见文档开始表
+                               settingid: "kf_9741_1428479892305", //缺省客服配置ID，必填，取值参见文档开始表
+                               uid: userId.toString(), //用户ID,未登录可以为空
+                               uname: ahs_um.toString(), //用户名，未登录可以为空
+                               isvip: userIsLogin.toString(), //是否为vip用户
+                               userlevel: (userId == 0 ? "未登录用户" : "已登录用户") //网站自定义会员级别
+                           };
+                       }, "//dl.ntalker.com/js/xn6/ntkfstat.js?siteid=kf_9741"
+            ]);
+        }
+
+    });
+
+    /* DSP iyoupin Statistics */
+    _ahs.push(function () {
+        (function (w, d, s, l, a) {
+            w._CommandName_ = l; w[l] = w[l] || function () {
+                (w[l].q = w[l].q || []).push(arguments);
+                w[l].track = function () { (w[l].q[w[l].q.length - 1].t = []).push(arguments) }; return w[l]
+            }, w[l].a = a, w[l].l = 1 * new Date();
+            var c = d.createElement(s); c.async = 1;
+            c.src = '//fm.ipinyou.com/j/a.js';
+            var h = d.getElementsByTagName(s)[0]; h.parentNode.insertBefore(c, h);
+        })(window, document, 'script', 'py', 'UKh..XjkvuDqoXahgjEKZEY2mp0');
+    });
+</script>
+    
+
+    <script src="/js/product/index.min.js?v=3toCpeW0cO1YzgHfofe3j32TQwGuVCw169TD0UUAEDs"></script>
+    <script type="text/javascript">
+        // Sociomantic track info
+        var sonar_product = {
+            identifier:'25827',
+            category: [
+                '手机回收',
+                '苹果手机回收',
+            ],
+            fn: '苹果 iPhone X',
+            description: '',
+            brand: '苹果',
+            price: '7420',
+            amount: '7420',
+            currency: 'CNY',
+            url: 'http://www.aihuishou.com/product/25827.html',
+            photo: 'http://static.aihuishou.com/image?file=5a28b40bc60057c40a000005&amp;w=198&amp;h=198',
+            valid: 0
+        };
+    </script>
+
+    <script type='text/javascript'>
+        // 检查登录状态
+        _ahs.push(function () {
+            ahs.ajax({
+                method: "account.getloginuser",
+                dataType: "json",
+                success: function (result) {
+                    if (result.code === 0) {
+                        if (result.data && result.data.mobile) {
+                            // 已登录
+                            $(".ordercenter").addClass("logged_in")
+                            $("#js-logged-link").find(".text").text(result.data.mobile)
+                        }                        
+                    }                    
+                }
+            });
+        });
+    </script>
+    <script type='text/javascript'>
+        /* DSP iyoupin Statistics */
+        //登录成功统计代码 
+        _ahs.push(function () {
+            if (location.search) {
+                var argsStr = location.search.slice(1),
+                     tempArr;
+                if (argsStr.indexOf('&') > -1) {
+                    var argsArr = argsStr.split('&');
+
+                    for (var i = 0, len = argsArr.length; i < len; i++) {
+                        tempArr = argsArr[i].split('=');
+                        if (tempArr[0] == 'utm_track' && tempArr[1] && tempArr[1].indexOf('login_') > -1) {
+                            py('event', 'register', $('#userId').val()).track('UKh.bkh.qu17TxFAOb_DWaeUTOov8P');
+                        }
+                    }
+                } else {
+                    tempArr = argsStr.split('=');
+                    if (tempArr[0] == 'utm_track' && tempArr[1] && tempArr[1].indexOf('login_') > -1) {
+                        py('event', 'register', $('#userId').val()).track('UKh.bkh.qu17TxFAOb_DWaeUTOov8P');
+                    }
+                }
+            }
+        });
+    </script>
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-24492769-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-24492769-1');
+    </script>
+    <noscript><p><img src="//tk.aihuishou.com/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+    <script type="text/javascript">
+    _ahs.push(function () {
+        var cart_refresh = function (callback) {
+            //头部回收车刷新
+            $.ajax({
+                type: "get",
+                url: couponsUrl + "/cart/cart-item/count",
+                dataType: 'json',
+                contentType: "application/json",
+                xhrFields: {
+                    withCredentials: true
+                },
+                success: function (res) {
+                    var $recycleCount = $('#recycle-cart').find('.highlight');
+                    var oldCount = parseInt($recycleCount.text());
+                    if (oldCount != res.data) {
+                        $recycleCount.html(res.data);
+                        $('#recycle-cart').addClass('updated');
+                    }
+                    if (callback && typeof callback == 'function') {
+                        $.ajax({
+                            type: "get",
+                            url: couponsUrl + "/cart/cart-item/list",
+                            dataType: 'json',
+                            contentType: "application/json",
+                            xhrFields: {
+                                withCredentials: true
+                            },
+                            success: function (res) {
+                                var li = '',
+                                totalPrice = 0,
+                                html = '',
+                                data = res.data;
+                                if (data.length > 0) {
+                                    for(var i =0; i<data.length; i++) {
+                                        li += '<li>'
+                                        + '<div class="product_image"><img src=' + data[i].productImgUrl + '&w=60&h=60' + ' alt=' + data[i].productName +'/></div>'
+                                        + '<div class="product_info">'
+                                        + '<div class="product_name">' + data[i].productName + '</div>'
+                                        + '<div class="product_price"><span>' + data[i].price +'元</span></div>'
+                                        + '</div>'
+                                        + '</li>';
+                                        totalPrice += data[i].price;
+                                    }
+                                    html = '<div class="hasgoods"><ul>' + li 
+                                    + '</ul>'
+                                    + '<div id="cart_pop_checkout">'
+                                    + '<div class="cart_checkout_count">共<span>' + data.length + '</span>件商品 <span>' + totalPrice +'</span></div>'
+                                    + '<div class="cart_checkout_go"><a href="/pc/index.html#/cart" title="去回收车结算" class="no_hover">去回收车结算</a></div>'
+                                    + '</div>';
+                                }
+                                else {
+                                    html = '<div class="nogoods">回收车中还没有商品，赶紧回收吧！</div>';
+                                }
+                                $('#recycle-cart').find('#recycle-cart-pop').html(html);
+                                $('#recycle-cart').removeClass('updated');
+                                callback();
+                            }
+                        });
+                    }
+                }
+            });
+        };
+        cart_refresh();
+
+        var cart_timmer = setInterval(cart_refresh, 1000 * 60);
+
+        ahs.cart = ahs.cart || {};
+        ahs.cart.refresh = cart_refresh;
+    });
+</script>
+
+    <script type="text/javascript">
+
+    var href = location.href;
+    var pageRegexMapping = {
+        'all': '.*',
+        'trade.apply': '\/Trade\/Apply',
+        'trade.success': '\/Trade\/Success.+html',
+        'product.detail': '\/product\/.+html'
+    };
+
+    function isPage(pageName) {
+        var pageRegex = new RegExp(pageRegexMapping[pageName] + '[\/]*($|[?#])', 'i'); // possibly leak memory ?
+        return href.match(pageRegex)
+    }
+    /*
+        Sociomantic 推广
+    */
+    _ahs.push(function () {        
+       
+
+        // 不同页面推送不同数据       
+
+
+        // 推送统计数据
+        (function () {
+            var s = document.createElement('script');
+            var x = document.getElementsByTagName('script')[0];
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = ('https:' == document.location.protocol ? 'https://' : 'http://')
+                    + 'cn-sonar.sociomantic.com/js/2010-07-01/adpan/aihuishou-cn';
+            x.parentNode.insertBefore(s, x);
+        })();
+
+
+    });
+
+</script>
+
+<script type="text/javascript" src="//g.alicdn.com/secdev/linkstat/aliyun.js?sample=0.0"></script></body>
+</html>
